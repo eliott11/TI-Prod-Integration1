@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin meet">
+  <g transform="translate(1.5 1.5)">
+    <circle
+      cx="22"
+      cy="22"
+      r="22"
+      fill="none"
+      stroke="#f37652"
+      stroke-miterlimit="10"
+      stroke-width="3"
+      width="auto" height="auto"
+    />
+    <path
+      d="M20.4 29.814a.533.533 0 01-.772.039l-8.454-7.933a.553.553 0 01-.022-.785l2.694-2.821a.565.565 0 01.791-.022l4.618 4.333a.533.533 0 00.772-.039l9.02-10.394a.565.565 0 01.789-.059l2.969 2.534a.553.553 0 01.059.783z"
+      fill="current"
+    />
+  </g>
+</svg>

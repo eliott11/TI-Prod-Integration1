@@ -1,0 +1,116 @@
+html {
+	font-size: 62.5%;
+}
+
+section.devise, section.header, section.number, section.organisation {
+    text-align: center;
+}
+
+/* nav */
+nav ul li a {
+    color: #FFF;
+    text-decoration: none;
+    font-family: NexaBold;
+    font-size: 1.8rem;
+}
+
+li {
+    padding-right: 12em;
+}
+
+nav.menu {
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    height: 12em;
+}
+
+.menu-part2 {
+    display: flex;
+}
+
+.menu-part1, .menu-part2 {
+    margin-top: 3rem;
+}
+
+section.header {
+    background-image: url("../img/header.png");
+    background-color: #1A1919;
+}
+
+@font-face {
+    font-family: "NexaLight";
+    src:local("NexaLight"), url("../Police/NexaLight.otf");
+}
+
+@font-face {
+    font-family: "NexaBold";
+    src:local("NexaBold"), url("../Police/NexaBold.otf");
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: NexaLight;
+}
+
+h2	{
+    font-size: 4.43rem;
+}
+
+h3 {
+    font-size: 3.43rem;
+}
+
+h4 {
+    font-size: 52px;
+}
+
+h5 {
+    font-size: 52px;
+}
+
+h6 {
+    font-size: 52px;
+}
+
+p {
+    font-family: NexaLight;
+    font-size: 1.25rem;
+}
+
+section.header, section.devise {
+    color: white;
+}
+
+.bonjour {
+    display: flex;
+    justify-content: center;
+    margin-top: 20rem;
+}
+
+.imgBjr {
+    height: auto;
+}
+
+.fond-rectangle {
+    top: 484px;
+    left: 602px;
+    width: 670px;
+    height: 142px;
+    border: 4px solid #FFFFFF;
+    opacity: 0.22;
+}
+
+section.devise {
+    background-color: #F37652;
+}
+
+section.organisation {
+    background-color: black;
+    color:white;
+}
+
+.organisation1 {
+    background-image: url("../img/world-wide-web.png");
+    background-size: cover;
+    z-index: auto;
+}

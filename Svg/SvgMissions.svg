@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1394.025" height="474.51" viewBox="0 0 1394.025 474.51">
+  <defs>
+    <filter id="Line" x="97.057" y="39.294" width="1206.421" height="435.215" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="11" result="blur"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Groupe_13" data-name="Groupe 13" transform="translate(2.013 -365.4)">
+    <g id="Group_16" data-name="Group 16" transform="translate(0 407)" opacity="0.159">
+      <g id="Group_15" data-name="Group 15" transform="translate(0 200)">
+        <g id="Group_12" data-name="Group 12" transform="translate(0 192)">
+          <path id="Line-2" data-name="Line" d="M.5.5l1389,7" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="5"/>
+        </g>
+        <g id="Group_12-2" data-name="Group 12">
+          <path id="Line-3" data-name="Line" d="M.5.5l1389,7" transform="translate(0 96)" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="5"/>
+          <path id="Line-4" data-name="Line" d="M.5.5l1389,7" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="5"/>
+        </g>
+      </g>
+      <g id="Group_15-2" data-name="Group 15">
+        <g id="Group_12-3" data-name="Group 12">
+          <path id="Line-5" data-name="Line" d="M.5.5l1389,7" transform="translate(0 96)" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="5"/>
+          <path id="Line-6" data-name="Line" d="M.5.5l1389,7" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="5"/>
+        </g>
+      </g>
+    </g>
+    <path id="Line-7" data-name="Line" d="M0,363.5S75.16,88,153.824,88s95.623,253.882,160.618,275.5,90.125-161.61,181.822-161.61S612.361,313.1,680.913,291.5C793.1,256.152,778.3,0,857.737,0c78.852,0,72.346,335.175,139.757,315.5C1087.214,289.31,1135,120.306,1135,120.306" transform="translate(130.5 439.694)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="16" opacity="0.131"/>
+    <g transform="matrix(1, 0, 0, 1, -2.01, 365.4)" filter="url(#Line)">
+      <path id="Line-8" data-name="Line" d="M0,363.5S75.16,88,153.824,88s95.623,253.882,160.618,275.5,90.125-161.61,181.822-161.61S612.361,313.1,680.913,291.5C793.1,256.152,778.3,0,857.737,0c78.852,0,72.346,335.175,139.757,315.5,89.72-26.188,138.005-198.692,138.005-198.692" transform="translate(132.51 74.29)" fill="none" stroke="#f37652" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+    </g>
+    <g id="Group_11" data-name="Group 11" transform="translate(170 446)">
+      <path id="Oval" d="M33.5,75.487A33.5,33.5,0,0,0,40.036,9.124C37.922,8.706,35.737,0,33.5,0c-2.218,0-4.386,8.7-6.484,9.114A33.5,33.5,0,0,0,33.5,75.487Z" transform="translate(81 38.513)" fill="#fff" opacity="0.663"/>
+      <text id="Surcroîts_d_activité" data-name="Surcroîts d’activité" transform="translate(-4 26.4)" fill="#fff" font-size="30" font-family="NexaBold, Nexa Bold" letter-spacing="-0.018em"><tspan x="0" y="0">Surcroîts d’activité</tspan></text>
+      <circle id="Oval-2" data-name="Oval" cx="16.5" cy="16.5" r="16.5" transform="translate(98 64)" fill="#fff"/>
+    </g>
+    <g id="Group_11-2" data-name="Group 11" transform="translate(513 560)">
+      <path id="Oval-3" data-name="Oval" d="M33.5,75.487A33.5,33.5,0,0,0,40.036,9.124C37.922,8.706,35.737,0,33.5,0c-2.218,0-4.386,8.7-6.484,9.114A33.5,33.5,0,0,0,33.5,75.487Z" transform="translate(81 38.513)" fill="#fff" opacity="0.663"/>
+      <text id="Gestions_de_crises" data-name="Gestions de crises" transform="translate(-3 26.4)" fill="#fff" font-size="30" font-family="NexaBold, Nexa Bold" letter-spacing="-0.018em"><tspan x="0" y="0">Gestions de crises</tspan></text>
+      <circle id="Oval-4" data-name="Oval" cx="16.5" cy="16.5" r="16.5" transform="translate(98 64)" fill="#fff"/>
+    </g>
+    <g id="Group_11-3" data-name="Group 11" transform="translate(792 362)">
+      <path id="Oval-5" data-name="Oval" d="M33.5,75.487A33.5,33.5,0,0,0,40.036,9.124C37.922,8.706,35.737,0,33.5,0c-2.218,0-4.386,8.7-6.484,9.114A33.5,33.5,0,0,0,33.5,75.487Z" transform="translate(162 38.513)" fill="#fff" opacity="0.663"/>
+      <text id="Missions_courtes_ou" data-name="Missions courtes ou" transform="translate(-20 26.4)" fill="#fff" font-size="30" font-family="NexaBold, Nexa Bold" letter-spacing="-0.018em"><tspan x="0" y="0">Missions courtes ou longue durée</tspan></text>
+      <circle id="Oval-6" data-name="Oval" cx="16.5" cy="16.5" r="16.5" transform="translate(179 64)" fill="#fff"/>
+    </g>
+    <g id="Group_11-4" data-name="Group 11" transform="translate(1232 477)">
+      <path id="Oval-7" data-name="Oval" d="M33.5,75.487A33.5,33.5,0,0,0,40.036,9.124C37.922,8.706,35.737,0,33.5,0c-2.218,0-4.386,8.7-6.484,9.114A33.5,33.5,0,0,0,33.5,75.487Z" transform="translate(0 37.513)" fill="#fff" opacity="0.663"/>
+      <text id="SAV" transform="translate(6 26.4)" fill="#fff" font-size="30" font-family="NexaBold, Nexa Bold" letter-spacing="-0.018em"><tspan x="0" y="0">SAV</tspan></text>
+      <circle id="Oval-8" data-name="Oval" cx="16.5" cy="16.5" r="16.5" transform="translate(17 63)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
